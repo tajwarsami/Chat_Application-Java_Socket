@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="lib15" level="project" />
+    <orderEntry type="library" name="socket3" level="project" />
+    <orderEntry type="library" name="socket15" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="lib5" level="project" />
+    <orderEntry type="library" name="lib11" level="project" />
+    <orderEntry type="library" name="socket17" level="project" />
+    <orderEntry type="library" name="socket5" level="project" />
+    <orderEntry type="library" name="socket1" level="project" />
+    <orderEntry type="library" name="lib12" level="project" />
+    <orderEntry type="library" name="socket14" level="project" />
+    <orderEntry type="library" name="lib20" level="project" />
+    <orderEntry type="library" name="lib23" level="project" />
+    <orderEntry type="library" name="socket18" level="project" />
+    <orderEntry type="library" name="socket11" level="project" />
+    <orderEntry type="library" name="socket21" level="project" />
+    <orderEntry type="library" name="lib18" level="project" />
+    <orderEntry type="library" name="lib16" level="project" />
+    <orderEntry type="library" name="socket16" level="project" />
+    <orderEntry type="library" name="lib8" level="project" />
+    <orderEntry type="library" name="socket13" level="project" />
+  </component>
+</module>
